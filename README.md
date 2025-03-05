@@ -1,2 +1,2 @@
-# MarchMania
-March Machine Learning Mania 2025 Kaggle Competition
+# Stanford RNA
+Stanford RNA 2025 Kaggle Competition
